@@ -25,8 +25,7 @@ The script checks if the input file exists and whether each line contains exactl
 
 4. Custom Separator Option:
 Users can specify custom separators for username generation using the --separator option.
-
-**For example: --separator=-,_.**
+For example: --separator=-,_.
 
 6. Verbose Mode:
 The **--verbose** option enables detailed logging of the processing steps, which is useful for debugging.
