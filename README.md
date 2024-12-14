@@ -1,7 +1,7 @@
 # AD Username_Generator
 AD Username Creator: Generate Unique Usernames for Active Directory can be particularly useful for penetration testers and red teamers in several ways:
 
-# Username Enumeration:
+## Username Enumeration:
 The script can generate potential usernames based on common naming conventions used in organizations. This is crucial during the reconnaissance phase of a penetration test, where identifying valid usernames can lead to further exploitation attempts, such as password spraying or credential stuffing attacks.
 
 # Testing Naming Conventions:
