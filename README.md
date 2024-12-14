@@ -1,4 +1,4 @@
-# Username_Generator
+# AD Username_Generator
 AD Username Creator: Generate Unique Usernames for Active Directory can be particularly useful for penetration testers and red teamers in several ways:
 
 # Username Enumeration:
