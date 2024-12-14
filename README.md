@@ -34,8 +34,8 @@ The **--verbose** option enables detailed logging of the processing steps, which
 # Installation Process:
 '''bash
 git clone https://github.com/s4m98/Username_Generator.git
-sudo chmod +x uname_gen.py
 '''bash
+sudo chmod +x uname_gen.py
 
 # Usage Examples:
 
