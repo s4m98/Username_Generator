@@ -35,6 +35,8 @@ The **--verbose** option enables detailed logging of the processing steps, which
 git clone https://github.com/s4m98/Username_Generator.git
 
 sudo chmod +x uname_gen.py
+
+python3 uname_gen.py -h
 ```
 
 # Usage Examples:
