@@ -50,7 +50,7 @@ To run the script with verbose output and a custom separator:
 ![2](https://github.com/user-attachments/assets/886788de-447c-48f2-9fc6-0b614fe6335f)
 ![3](https://github.com/user-attachments/assets/d6babc91-d588-4a32-aa5d-526f6ab1f04a)
 
-**./uname-gen.py names.txt output.txt --verbose --separator=-,_ **
+## ./uname-gen.py names.txt output.txt --verbose --separator=-,_ 
 
 ![5](https://github.com/user-attachments/assets/3e8249f6-c6f9-4763-908c-a673e476355b)
 
