@@ -32,11 +32,10 @@ Users can specify custom separators for username generation using the --separato
 The **--verbose** option enables detailed logging of the processing steps, which is useful for debugging.
 
 # Installation Process:
-**```bash
+bash
 git clone https://github.com/s4m98/Username_Generator.git
-
+bash
 sudo chmod +x uname_gen.py
-***
 
 # Usage Examples:
 
